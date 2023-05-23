@@ -17,4 +17,5 @@ The last command will ask for password which is ‘pass@word1’
 
 * Mandatory: Before final submission run the following command: 
 	mvn test
-
+	
+* You need to use CTRL+Shift+B - command compulsorily on code IDE, before final submission as well. This will push or save the updated contents in the internal git/repository, and will be used to evaluate the code quality.
